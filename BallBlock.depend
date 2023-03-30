@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1679523729 source:c:\users\kduru\onedrive\masaüstü\yeni klasör\ballblock\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<dos.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
